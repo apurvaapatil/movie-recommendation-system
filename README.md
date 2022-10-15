@@ -1,5 +1,5 @@
 # Movie Recommender
-ML project developed during 6th semester
+ML project
 
 Deployed on Heroku: [Movie Recommender](https://ml-movie-recommender-system.herokuapp.com/)
 
